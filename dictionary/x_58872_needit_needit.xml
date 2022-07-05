@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element label="New Field 2" max_length="40" name="new_field_2" type="integer"/>
+        <element attributes="omit_sys_original=true" label="New Currency" max_length="20" name="u_currency_9" read_only="true" type="currency"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="New List" max_length="1024" name="u_glide_list_7" type="glide_list"/>
+        <element label="New Integer" max_length="40" name="u_integer_1" type="integer"/>
+        <element label="New Integer" max_length="40" name="u_integer_6" type="integer"/>
+    </element>
+</database>
